@@ -5,6 +5,7 @@ Projetos desenvolvidos utilizando HTML, CSS e JavaScript.
 
 - Verificador de horário: **[Clique aqui para acessar](https://pmagalhaes2.github.io/curso-em-video-js/verificador_horario/index.html)**
 - Verificador de idade: **[Clique aqui para acessar](https://pmagalhaes2.github.io/curso-em-video-js/verificador_idade/index.html)**
+- Contador de passos: **[Clique aqui para acessar](https://pmagalhaes2.github.io/curso-em-video-js/contador_passos/index.html)**
 
 ## Aprendizados
 
@@ -21,3 +22,5 @@ Projetos desenvolvidos utilizando HTML, CSS e JavaScript.
 	- Criar elementos HTML através do JS
 	- Adicionar conteúdo em elementos HTML através do JS
 	- Estilizar elementos HTML através do JS
+	- Validação de conteúdo de input do usuário
+	- Estruturas de repetição
