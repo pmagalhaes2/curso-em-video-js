@@ -7,6 +7,9 @@ Projetos desenvolvidos utilizando HTML, CSS e JavaScript.
 - Verificador de idade: **[Clique aqui para acessar](https://pmagalhaes2.github.io/curso-em-video-js/verificador_idade/index.html)**
 - Contador de passos: **[Clique aqui para acessar](https://pmagalhaes2.github.io/curso-em-video-js/contador_passos/index.html)**
 
+- Impressão de Tabuada: **[Clique aqui para acessar](https://pmagalhaes2.github.io/curso-em-video-js/impressao_tabuada/index.html)**
+
+
 ## Aprendizados
 
 - Estrutura básica do HTML
